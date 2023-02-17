@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='ISO-8859-1'  ?>
+<!DOCTYPE index
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/index_1_0.dtd">
+<index version="1.0">
+        <indexitem text="Winball"    target="Winball"/>
+        <indexitem text="Ventana curso"    target="ventana_curso"/>
+        <indexitem text="Ventana matricula"    target="ventana_matricula"/>
+        <indexitem text="Ventana alumnos"    target="ventana_alumnos"/>
+        <indexitem text="Ventana informes"    target="ventana_informes"/>
+        <indexitem text="Ventana nosotros"    target="ventana_nosotros"/>
+        
+</index>

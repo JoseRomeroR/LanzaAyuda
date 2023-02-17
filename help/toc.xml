@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<toc version="1.0"> <!--  categoryclosedimage="FolderClosed" categoryopenimage="FolderOpened"  
+topicimage="ItemIco"-->
+        <tocitem text="Winball"    target="Winball">
+           <tocitem text="Ventana curso"    target="ventana_curso"/>
+           <tocitem text="Ventana matricula"    target="ventana_matricula"/>
+           <tocitem text="Ventana alumnos"    target="ventana_alumnos"/>
+           <tocitem text="Ventana informes"    target="ventana_informes"/>
+           <tocitem text="Ventana nosotros"    target="ventana_nosotros"/>
+        </tocitem>
+</toc>
